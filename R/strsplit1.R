@@ -1,4 +1,4 @@
-#' @title split a string
+#' split a string
 #'
 #' @param x a character vector
 #' @param split split character
