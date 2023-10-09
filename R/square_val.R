@@ -3,6 +3,9 @@
 #' @param x a numeric value
 #'
 #' @return a number
+#'
+#' @import ACE
+#'
 #' @export
 #'
 #' @examples square_val(2)
