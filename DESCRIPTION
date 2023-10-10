@@ -2,8 +2,10 @@ Package: testPackage
 Title: This is a test package
 Version: 0.0.0.9000
 Authors@R: 
-    person("A M Mahedi", "Hasan", , "mahedi.bioinf@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-8334-6490"))
+    person(given = "A M Mahedi", family = "Hasan", 
+          email = "mahedi.bioinf@gmail.com", 
+          role = c("aut", "cre"),
+          comment = c(ORCID = "0000-0002-8334-6490"))
 Description: This is a test package, one that I am practising on at this moment.
 License: MIT + file LICENSE
 Encoding: UTF-8
