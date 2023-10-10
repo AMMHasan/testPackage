@@ -3,3 +3,8 @@
 export(square_val)
 export(strsplit1)
 import(ACE)
+import(QDNAseq)
+import(QDNAseq.hg19)
+import(dplyr)
+import(rematch2)
+import(stringr)

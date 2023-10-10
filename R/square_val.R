@@ -5,6 +5,11 @@
 #' @return a number
 #'
 #' @import ACE
+#' @import QDNAseq
+#' @import QDNAseq.hg19
+#' @import dplyr
+#' @import rematch2
+#' @import stringr
 #'
 #' @export
 #'
